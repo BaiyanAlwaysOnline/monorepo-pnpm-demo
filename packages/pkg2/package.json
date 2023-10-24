@@ -1,6 +1,6 @@
 {
-  "name": "pkg2",
-  "version": "2.0.0",
+  "name": "@bytest/pkg2",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "types": "dist/pkg2.d.ts",
